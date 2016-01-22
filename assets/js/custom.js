@@ -38,6 +38,7 @@
 			navbarAnimation(navbar, moduleHero);
 		}).scroll();
 
+		$('.thumbnail-content').addClass('animated fadeIn');
 		/* ---------------------------------------------- /*
 		 * Mobile detect
 		/* ---------------------------------------------- */
